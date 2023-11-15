@@ -5,7 +5,7 @@ Forked from [Ezhil Theme](https://github.com/vividvilla/ezhil)
 
 ## Demo
 
-[Check the Demo](https://athul.github.io/archie/) hosted on GitHub Pages :smile: . You can find the source code to that in the `site` branch of this repository
+[Demo Site](https://athul.github.io/archie/) hosted on GitHub Pages. You can find the source code to that in the `site` branch of this repository
 
 ![](/images/theme.png)
 ![](/images/archie-dark.png)
@@ -20,11 +20,11 @@ Forked from [Ezhil Theme](https://github.com/vividvilla/ezhil)
 - Disqus Comments
 
 ## Installation
-In your Hugo website directory, create a new folder named theme and clone the repo
+In your Hugo website directory, create a new folder named themes and clone the repo
 ```bash
 $ mkdir themes
 $ cd themes
-$ git clone https://github.com/athul/archie.git
+$ git clone https://github.com/asareynolds/archie.git
 ```
 Edit the `config.toml` file with `theme="archie"`
 For more information read the official [setup guide](https://gohugo.io/installation/) of Hugo.
@@ -125,7 +125,3 @@ url = "/tags"
 weight = 4
 ```
 ---
-
-If you liked my work please consider supporting me on [BuymeACoffee](https://www.buymeacoffee.com/athulca)
-
-<a href="https://www.buymeacoffee.com/athulca" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="41" width="174" ></a>
